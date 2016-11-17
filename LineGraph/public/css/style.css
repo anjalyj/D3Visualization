@@ -1,0 +1,19 @@
+svg{
+	border:1px solid black;
+}
+
+path {
+	fill: none;
+	stroke: black;
+	stroke-width : 2px;
+}
+
+.line{
+	stroke: steelblue;
+	stroke-width : 3px;
+}
+
+.circles{
+	fill : white;
+	stroke : steelblue;
+}
