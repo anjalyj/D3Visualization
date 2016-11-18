@@ -1,0 +1,21 @@
+.line{
+	stroke: darkred;
+	stroke-width : 3px;
+	fill : none;
+}
+
+.circles{
+	fill : white;
+	stroke : darkred;
+}
+
+.sineLine{
+	stroke: darkblue;
+	stroke-width : 3px;
+	fill : none;
+}
+
+.sineCircles{
+	fill : white;
+	stroke : darkblue;
+}
