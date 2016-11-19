@@ -1,0 +1,16 @@
+.area{
+	fill:lightsteelblue;
+	fill-opacity:0.5;
+	
+}
+
+circle{
+	fill:white;
+	stroke:steelblue;
+}
+
+.line{
+	stroke:steelblue;
+	stroke-width:2px;
+	fill : none;
+}
